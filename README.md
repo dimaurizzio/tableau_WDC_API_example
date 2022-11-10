@@ -7,4 +7,6 @@ It allows to connect to API of https://dummyjson.com/products which provides fak
 This project allows you to automatic import in .hyper format for Tableau.
 
 <h3>The Web Data Connector URL</h3>
-https://dimaurizzio.github.io/tableau_WDC_API_example/Product%API%example.html
+https://dimaurizzio.github.io/tableau_WDC_API_example/Product_API_example.html
+
+credits to github.com/giandata
