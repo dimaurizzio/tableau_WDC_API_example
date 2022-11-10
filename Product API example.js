@@ -15,7 +15,7 @@
             id: "description",
             alias: "product description",
             dataType: tableau.dataTypeEnum.string
-        }, //{
+        }//, {
            // id: "price",
            // alias: "product price",
 //dataType: tableau.dataTypeEnum.float
